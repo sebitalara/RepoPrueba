@@ -1,1 +1,1 @@
-# RepoPrueba
+# RepositorioPrueba
